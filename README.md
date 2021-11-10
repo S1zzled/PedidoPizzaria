@@ -12,3 +12,5 @@ Controle de Vendas de Pizzas
 				Telefone:
 
 				Cliente:
+				
+				Aceita participar de promoções? ()Sim ()Não
